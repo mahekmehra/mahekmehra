@@ -92,6 +92,8 @@
 ## 📊 GitHub Stats
 
 ![Mahek's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahekmehra&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=mahekmehra&theme=radical)
+
 
 ---
 
