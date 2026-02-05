@@ -10,7 +10,7 @@
 
 ### 🧠 Artificial Intelligence & Machine Learning  
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange)  
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-red)  
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-blue)  
 ![NLP](https://img.shields.io/badge/NLP-purple)  
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-pink)   
 ![Transformers](https://img.shields.io/badge/Transformers-red)
@@ -83,7 +83,7 @@
 
 ## ⚙️ DevOps (CI/CD & Build Tools)
 
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black)  
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-purple)  
 ![Maven](https://img.shields.io/badge/Maven-C71A36)
 
 - 🚀 Using **GitHub Actions** for automated CI pipelines (build, test, lint)  
