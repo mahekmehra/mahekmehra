@@ -92,7 +92,6 @@
 ## 📊 GitHub Stats
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahekmehra&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahekmehra&theme=radical)
 
 ---
 
