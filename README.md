@@ -57,8 +57,8 @@
 ## 🎯 Current Learning Focus 
 
 - Large Language Models (LLMs)  
-- Prompt Engineering
-- Agentic AI and RAG models
+- Prompt Engineering  
+- Agentic AI and RAG models  
 - MLOps & Deployment  
 - Backend System Design  
 - Scalable APIs  
@@ -81,6 +81,17 @@
 
 ---
 
+## ⚙️ DevOps (CI/CD & Build Tools)
+
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black)  
+![Maven](https://img.shields.io/badge/Maven-C71A36)
+
+- 🚀 Using **GitHub Actions** for automated CI pipelines (build, test, lint)  
+- 📦 Familiar with **Maven** for project build and dependency management  
+- 🧩 Learning how to integrate ML projects into **CI/CD workflows**
+
+---
+
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/mahek-mehra  
@@ -96,4 +107,5 @@
 ---
 
 > “I learn best by experimenting with data, breaking models, and building them better.”
+
 
